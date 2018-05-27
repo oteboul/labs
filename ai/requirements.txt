@@ -1,0 +1,17 @@
+findspark==1.1.0
+gym==0.10.5
+imageio==2.3.0
+jupyter==1.0.0
+kaggle==1.3.8
+Keras==2.1.5
+numba==0.33.0
+numpy==1.14.3
+pandas==0.20.1
+Pillow==3.4.2
+protobuf==3.5.2.post1
+pyspark==2.1.1+hadoop2.7
+scikit-image==0.13.0
+scikit-learn==0.19b2
+scipy==0.19.1
+seaborn==0.8.1
+tensorflow==1.6.0
